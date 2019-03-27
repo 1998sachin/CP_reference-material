@@ -1,0 +1,81 @@
+q-1
+Hasan and Trip
+
+Problem-Link- https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hasan-and-trip-1/
+
+
+q-2
+Vanya and GCD
+
+
+Problem-Link- https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/vanya-and-gcd-array/
+
+q-3
+Adjacent Bit Counts
+
+
+Problem-Link- https://www.spoj.com/TCW5C1/problems/GNYR09F/
+
+q-4
+Roy and Coin Boxes
+
+
+Problem-Link- https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roy-and-coin-boxes-1/
+
+q-5
+Jon Snow and his favourite number
+
+
+Problem-Link- http://codeforces.com/problemset/problem/768/C
+
+q-6
+Alyona and Spreadsheet
+
+
+Problem-Link- https://codeforces.com/problemset/problem/777/C
+
+q-7
+Angry Children
+
+
+Problem-Link- https://www.hackerrank.com/challenges/angry-children-2/problem
+
+q-8
+Miser Man
+
+Problem-Link- https://www.spoj.com/problems/MISERMAN/
+
+q-9
+Charlie and Pilots
+
+Problem-Link- https://www.spoj.com/problems/MPILOT/
+
+q-10
+Sum of Digits
+
+Problem-Link- https://www.hackerearth.com/problem/algorithm/sum-of-digits-8/
+
+q-11
+Square Brackets
+
+Problem-Link- https://www.spoj.com/problems/SQRBR/
+
+q-12
+Star Sky
+
+Problem-Link- https://codeforces.com/problemset/problem/835/C
+
+q-13
+Trader Profit
+
+Problem-Link- https://www.hackerrank.com/contests/gs-codesprint/challenges/trader-profit
+
+q-14
+Distinct Subsequences
+
+Problem-Link- https://www.spoj.com/problems/DSUBSEQ/
+
+q-15
+Pussycat Sonya
+
+Problem-Link- https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/sonya-puts-the-blocks-in-the-box-icpc-4/
