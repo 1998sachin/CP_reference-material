@@ -1,7 +1,7 @@
 # CP_reference-material
 Contains a lot of reference material... feel free to explore. Python rocks.
 
-Adding some new knowledge... Hope this grow into a valuable resource.
+Adding some new knowledge... Hope this grows into a valuable resource.
 
 1.  For sum of all divisors of a number N, find its prime factorization of the form:
     N = 2^a * 3^b * 5^c ......
